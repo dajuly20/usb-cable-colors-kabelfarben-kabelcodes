@@ -7,8 +7,9 @@
 | 🟨 Gelb        | USB-C |
 | 🟦 Blau        | USB-A |
 | 🟪 Lila        | USB-Micro |
+| 🟥 Rot         | USB-Mini |
 | ⬜ Weiß        | noch offen |
 | ❓ (noch offen) | USB → DC-Anschluss (Barrel Jack) |
 | 🟧 Orange      | USB-PD Kabel mit Schalter (Universal Power Delivery, 5–20V umschaltbar) |
 | 🟨 + 🔁        | USB-C Verlängerungskabel (beide Enden gelb, zusätzlich Wiederholungs-Symbol) |
-| 🖨️ PDF erstellen | Mit `make pdf` kann aus dieser Markdown-Datei eine PDF erzeugt werden. |
+| ⚫ Schwarz     | USB-B (2.0 und 3.0, quadratische Druckeranschlüsse) |
