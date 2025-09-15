@@ -22,3 +22,10 @@ Dieses Repository sammelt verschiedene Informationen und Skripte zu USB-Kabelfar
 ## Hinweis
 
 Die vorherige `README.md` wurde nach [`details.md`](./details.md) verschoben, um Konflikte zu vermeiden.
+
+---
+
+**[Dieses Repository auf GitHub ansehen](https://github.com/dajuly20/usb-cable-colors-kabelfarben-kabelcodes)**  
+
+
+**[Download als ZIP z.B. für Windows Clientrechner (main branch)](https://github.com/dajuly20/usb-cable-colors-kabelfarben-kabelcodes/archive/refs/heads/main.zip)**
