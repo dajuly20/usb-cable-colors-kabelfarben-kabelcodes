@@ -11,4 +11,4 @@
 | ❓ (noch offen) | USB → DC-Anschluss (Barrel Jack) |
 | 🟧 Orange      | USB-PD Kabel mit Schalter (Universal Power Delivery, 5–20V umschaltbar) |
 | 🟨 + 🔁        | USB-C Verlängerungskabel (beide Enden gelb, zusätzlich Wiederholungs-Symbol) |
-| ⚫ Schwarz     | USB-B (2.0 und 3.0, quadratische Druckeranschlüsse) |
+| 🖨️ PDF erstellen | Mit `make pdf` kann aus dieser Markdown-Datei eine PDF erzeugt werden. |
