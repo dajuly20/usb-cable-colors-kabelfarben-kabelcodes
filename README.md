@@ -29,3 +29,15 @@ Die vorherige `README.md` wurde nach [`details.md`](./details.md) verschoben, um
 
 
 **[Download als ZIP z.B. für Windows Clientrechner (main branch)](https://github.com/dajuly20/usb-cable-colors-kabelfarben-kabelcodes/archive/refs/heads/main.zip)**
+
+
+## Powershell Scripte  
+
+```
+  Get-NetAdapter | ForEach-Object { 
+      ipconfig /release $_.InterfaceAlias
+      ipconfig /renew $_.InterfaceAlias
+  }
+  Clear-DnsClientCache
+  Get-DnsClientServerAddress
+```
