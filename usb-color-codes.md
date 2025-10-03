@@ -1,18 +1,20 @@
 # 🧵 Kabelmanagement – Farblegende (aktueller Stand)
 
-*Quelle: Chat „🧵 Kabelmanagement (Farblegende, aktueller Stand)“*
+*Quelle: Chat „🧵 Kabelmanagement (Farblegende, aktueller Stand)"*
+
+![USB-Typen Übersicht](img/USB-Typen-II.jpg)🧵 Kabelmanagement – Farblegende (aktueller Stand)
 
 | Farbe / Symbol | Bedeutung |
 |----------------|-----------|
-| 🟨 Gelb        | USB-C |
 | 🟦 Blau        | USB-A |
-| 🟪 Lila        | USB-Micro |
+| ⚫ Schwarz     | USB-B quadratische "Druckeranschlüsse" |
+| 🟨 Gelb        | USB-C |
 | 🟥 Rot         | USB-Mini |
-| ⬜ Weiß        | noch offen |
-| ❓ (noch offen) | USB → DC-Anschluss (Barrel Jack) |
+| 🟪 Lila        | USB-Micro |
+| 🟥 Rot         | USB-Mini größér als Mini aber langlebiger |
+| 🟨🟩 GrünGelb (PE) | USB → DC-Anschluss (Barrel Jack), alternative Farbkombination für bessere Unterscheidung |
 | 🟧 Orange      | USB-PD Kabel mit Schalter (Universal Power Delivery, 5–20V umschaltbar) |
 | 🟨 + 🔁        | USB-C Verlängerungskabel (beide Enden gelb, zusätzlich Wiederholungs-Symbol) |
-| ⚫ Schwarz     | USB-B quadratische "Druckeranschlüsse")
 
 
 | Farbe / Symbol  | USB - Gen | Bedeutung |
