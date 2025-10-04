@@ -1,6 +1,6 @@
-# 🧵 Kabelmanagement – Farblegende (aktueller Stand)
+# 🧵 Kabelmanagement – Farblegende 
 
-*Quelle: Chat „🧵 Kabelmanagement (Farblegende, aktueller Stand)"*
+*Quelle: ChatwGpt Chat „🧵 Kabelmanagement (Farblegende, aktueller Stand)"*
 
 ![USB-Typen Übersicht](img/USB-Typen-II.jpg)🧵 Kabelmanagement – Farblegende (aktueller Stand)
 
@@ -12,7 +12,7 @@
 | 🟥 Rot         | USB-Mini |
 | 🟪 Lila        | USB-Micro |
 | 🟥 Rot         | USB-Mini größér als Mini aber langlebiger |
-| 🟨🟩 GrünGelb (PE) | USB → DC-Anschluss (Barrel Jack), alternative Farbkombination für bessere Unterscheidung |
+| 🟨🟩 GrünGelb (PE) | USB PD 5 / 9V / 12V / 20V USB → DC-Anschluss (Barrel Jack), alternative Farbkombination für bessere Unterscheidung |
 | 🟧 Orange      | USB-PD Kabel mit Schalter (Universal Power Delivery, 5–20V umschaltbar) |
 | 🟨 + 🔁        | USB-C Verlängerungskabel (beide Enden gelb, zusätzlich Wiederholungs-Symbol) |
 
