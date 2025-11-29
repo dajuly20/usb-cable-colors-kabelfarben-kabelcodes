@@ -1,5 +1,17 @@
 # 🧵 Kabelmanagement – Farblegende 
 
+git clone https://github.com/dajuly20/scan-new-usb-connections
+cd scan-new-usb-connections 
+
+# USB-Geräte auflisten
+./scanusbconnections --list-cli
+
+# USB-Überwachung starten (Terminal)
+./scanusbconnections --watch-cli
+
+# GUI-Version starten
+./scanusbconnections --gui
+
 *Quelle: ChatwGpt Chat „🧵 Kabelmanagement (Farblegende, aktueller Stand)"*
 
 ![USB-Typen Übersicht](img/USB-Typen-II.jpg)🧵 Kabelmanagement – Farblegende (aktueller Stand)
