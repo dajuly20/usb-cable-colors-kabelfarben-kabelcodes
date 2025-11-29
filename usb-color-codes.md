@@ -31,6 +31,7 @@ cd scan-new-usb-connections
 
 | Farbe / Symbol  | USB - Gen | Bedeutung |
 |-----------------|---------|-----------|
+| ( 🟨🟩 GrünGelb (PE) |  PD und so? Is dann niicht automatisch jedes USB3 = alle stufen? ?) 
 | 🟨⚡3️⃣          | 3.0     | wenn nötig damit man Stift sieht gerne noch eine (gelbe) Banderole,dann kann man ne "3" nen Blitz drauf mahlen. |                            
 | ⬜🐌2️⃣  | 2.0      |  wenn'S nötig ist ne graue Banderole und 2 draufschreiben. Wenn du ne Schnecke malen kannst - gerne! |
 | ⬜  ❌  |  o. Daten |  Qucickcharge - Nur 5V Ladekabel ohne Datenverbindung. Wenn'S noch genug andere gibt am besten sofort in die Tonne |
