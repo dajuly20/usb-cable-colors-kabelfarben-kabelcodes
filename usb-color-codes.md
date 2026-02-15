@@ -37,4 +37,21 @@ cd scan-new-usb-connections
 | ⬜  ❌  |  o. Daten |  Qucickcharge - Nur 5V Ladekabel ohne Datenverbindung. Wenn'S noch genug andere gibt am besten sofort in die Tonne |
 |          |          | damit!|
 
+---
+
+## USB 3 Port-Farben (Herstellerstandard)
+
+Die **internen Farben** der USB-Ports geben Hinweise auf die USB-Generation:
+
+| Port-Farbe (innen) | USB-Version | Geschwindigkeit |
+|--------------------|-------------|-----------------|
+| ⬜ Weiß            | USB 1.x     | 1.5–12 Mbit/s   |
+| ⬛ Schwarz         | USB 2.0     | 480 Mbit/s      |
+| 🟦 Blau            | USB 3.0 / 3.1 Gen 1 | 5 Gbit/s (SuperSpeed) |
+| 🩵 Türkis/Teal     | USB 3.1 Gen 2 | 10 Gbit/s (SuperSpeed+) |
+| 🟥 Rot             | USB 3.2 Gen 2x2 / Sleep-and-Charge | 20 Gbit/s / Laden im Standby |
+| 🟨 Gelb / 🟧 Orange | Always-On Port | Laden auch bei ausgeschaltetem PC |
+
+> **Hinweis:** Gelb/Rot bei USB 3 Ports bedeutet oft spezielle Ladefunktionen (Always-On oder Sleep-and-Charge), nicht unbedingt höhere Geschwindigkeit.
+
 
