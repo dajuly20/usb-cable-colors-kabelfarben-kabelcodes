@@ -18,10 +18,14 @@ Dieses Repository sammelt verschiedene Informationen und Skripte zu USB-Kabelfar
 - [`Create-CPL-Shortcuts.ps1`](./Create-CPL-Shortcuts.ps1)  
   PowerShell-Skript, das automatisch Verknüpfungen zu den CPL-Befehlen im Ordner *Desktop/CPL* erstellt.
 
-- [`Create-CPL-Shortcuts.bat`](./Create-CPL-Shortcuts.bat)  
+- [`Create-CPL-Shortcuts.bat`](./Create-CPL-Shortcuts.bat)
   Batch-Datei, die das PowerShell-Skript einfacher aufrufen lässt.
 
-- [`Makefile`](./Makefile)  
+- [`Windows10_Fehlercheck.ps1`](./Windows10_Fehlercheck.ps1)
+  PowerShell-Skript zur umfassenden Systemüberprüfung von Windows 10. Führt DISM, SFC und Festplatten-Checks durch.
+  - [Detaillierte Anleitung](./Windows10_Fehlercheck_Anleitung.md)
+
+- [`Makefile`](./Makefile)
   Enthält Befehle zum Erstellen von PDF-Dokumenten aus den Markdown-Dateien.
 
 ## Hinweis
