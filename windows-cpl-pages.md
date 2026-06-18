@@ -4,7 +4,10 @@ Viele Programme & Funktionen lassen sich direkt per `Win + R` über Befehle star
 Hier eine Übersicht mit Icons für bessere Erkennbarkeit:
 
 ---
-
+## SSH Tunnel ins Windoof netz
+ PS /bash:  `ssh -L 3389:10.73.0.20:3389 pve.htz.ip`     (nur bei mir im LAN, sonst 1 step mehr über "j" )
+ WIN+R  mstsc localhost 
+ 
 ## ⚙️ Systemsteuerung & Verwaltung
 - `appwiz.cpl` – 📦 Programme und Features
 - `control` – 🖥️ Systemsteuerung
